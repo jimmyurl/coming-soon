@@ -1,5 +1,5 @@
 # coming-soon
-This is a single page site using HTML, Vanilla Javascript and CSS designed to create a countdown timer. It counts down the seconds, minutes, hours, and days from specific initial values and updates HTML elements with the remaining time. It uses the `setInterval` function to repeatedly execute a function every 1000 milliseconds (1 second) to update the countdown.
+This is a single page "coming soon" site using HTML, Vanilla Javascript and CSS designed to create a countdown timer. It counts down the seconds, minutes, hours, and days from specific initial values and updates HTML elements with the remaining time. It uses the `setInterval` function to repeatedly execute a function every 1000 milliseconds (1 second) to update the countdown.
 
 Here's a breakdown of how the code works:
 
